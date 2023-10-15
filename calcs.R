@@ -24,9 +24,9 @@ tw.imp.exp.total.gbp = tw.imp.exp.total.usd * usd.gbp.2021
 
 avg.wpm = 280
 
-ps.words = 585
+ps.words = 503
 
-reading.mins = words / avg.wpm
+reading.mins = ps.words / avg.wpm
 
 
 # Final Calc --------------------------------------------------------------
