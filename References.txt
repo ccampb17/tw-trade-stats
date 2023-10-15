@@ -1,0 +1,17 @@
+Footnotes and references:
+[1] Specifically £18,027,118. Calculation details:
+
+Reading speed of 280 wpm based on 238 average from the below paper, extended towards upper limit because intended audience is well-read.
+Marc Brysbaert, 'How many words do we read per minute? A review and meta-analysis of reading rate',Journal of Memory and Language, Volume 109, 2019. https://doi.org/10.1016/j.jml.2019.104047.
+
+Trade figures from:
+ROC International Trade Administration Statistics. URL: https://cuswebo.trade.gov.tw/
+DBT Trade and Investment Factsheets: Taiwan. URL: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1185772/taiwan-trade-and-investment-factsheet-2023-09-21.pdf
+World Trade Organisation; see [2] below
+
+You can interrogate the calculation rubric in the R script I used to get the final figure here: https://raw.githubusercontent.com/ccampb17/tw-trade-stats/main/calcs.R
+
+[2] 'Chinese Taipei [sic] Trade Profile', World Trade Organisation. Dated '2022'. Accessed 2023-10-10. URL: https://www.wto.org/english/res_e/statis_e/daily_update_e/trade_profiles/TW_e.pdf
+Export and import figures combined for conciseness.
+
+[3] 'Taiwan’s dominance of the chip industry makes it more important', The Economist, 2023-03-06. Accessed 2023-10-10. URL: https://www.economist.com/special-report/2023/03/06/taiwans-dominance-of-the-chip-industry-makes-it-more-important
